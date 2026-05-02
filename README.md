@@ -1,2 +1,5 @@
 # Candy_Sales_Data_Mart_ETL_Project-
-Built a SQL ETL pipeline to merge 2017–2019 sales data into a unified staging table. Standardized schemas, combined split shipments, and applied discount logic. Validated data with checksums and queries to ensure accuracy for analytics and BI reporting.
+- Designed and implemented a SQL-based ETL pipeline to consolidate three years of legacy sales datasets (2017–2019) into a unified staging table for analytics and reporting.
+- Transformed inconsistent source schemas by recalculating metrics, merging split shipment quantities, applying discount logic, and standardizing product and order fields.
+- Performed data quality validation through checksum testing, query debugging, and record-level verification while building a reusable structure for future BI reporting and trend analysis.
+
